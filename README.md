@@ -1,1 +1,1 @@
-#This is my own python_projects codes
+#This is CS_224 class python codes.
